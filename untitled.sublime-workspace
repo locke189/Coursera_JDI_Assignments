@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"first",
+				"firstLetter"
+			],
+			[
+				"firs",
+				"firstLetter"
+			],
+			[
+				"c",
+				"content	Attr"
+			],
+			[
 				"N",
 				"Name"
 			],
@@ -15,6 +27,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "HTML5_Week4/script.js",
+			"settings":
+			{
+				"buffer_size": 2309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HTML5_Week4/SpeakGoodBye.js",
+			"settings":
+			{
+				"buffer_size": 990,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HTML5_Week4/SpeakHello.js",
+			"settings":
+			{
+				"buffer_size": 962,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments/version2/module4-solution-starter/harder/index.html",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -49,10 +93,33 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Juan_Insuasti/workspace/Coursera"
+		"/Users/Juan_Insuasti/workspace/Coursera",
+		"/Users/Juan_Insuasti/workspace/Coursera/HTML5_Week2/css",
+		"/Users/Juan_Insuasti/workspace/Coursera/HTML5_Week3/js",
+		"/Users/Juan_Insuasti/workspace/Coursera/HTML5_Week4",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments/version2",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments/version2/module4-solution-starter",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture24",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture25/css",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture29",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture30",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture37",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture37/after",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture37/after/js",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture39"
 	],
 	"file_history":
 	[
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments/version2/module4-solution-starter/harder/SpeakHello.js",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments/version2/module4-solution-starter/harder/SpeakGoodBye.js",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments/version2/module4-solution-starter/harder/script.js",
+		"/Users/Juan_Insuasti/workspace/Coursera/HTML5_Week3/css/style.css",
+		"/Users/Juan_Insuasti/workspace/Coursera/HTML5_Week3/index.html",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture25/index.html",
+		"/Users/Juan_Insuasti/workspace/Coursera/HTML5_Week2/index.html",
+		"/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/examples/Lecture24/responsive-after.html",
+		"/Users/Juan_Insuasti/workspace/Coursera/HTML5_Week2/css/style.css",
 		"/Users/Juan_Insuasti/workspace/ZFI_BALANCE/Original.JSON",
 		"/Users/Juan_Insuasti/workspace/RSS_Test/Gerfor_RSS.xml",
 		"/Users/Juan_Insuasti/workspace/fakegram-api/app/constants/config.js",
@@ -120,13 +187,135 @@
 	[
 		{
 			"path": "/Users/Juan_Insuasti/workspace/Coursera"
+		},
+		{
+			"path": "/Users/Juan_Insuasti/workspace/fullstack-course4-coursera"
 		}
 	],
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "HTML5_Week4/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2281,
+								2285
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "HTML5_Week4/SpeakGoodBye.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								990,
+								990
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "HTML5_Week4/SpeakHello.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Juan_Insuasti/workspace/fullstack-course4-coursera/Assignments/version2/module4-solution-starter/harder/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
